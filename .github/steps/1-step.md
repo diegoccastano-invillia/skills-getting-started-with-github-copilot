@@ -4,11 +4,11 @@ Boas-vindas ao seu exercício **"Começando com o GitHub Copilot"**! :robot:
 
 Neste exercício, você vai usar diferentes recursos do GitHub Copilot para trabalhar em um site que permite que estudantes da Mergington High School se inscrevam em atividades extracurriculares. 🎻 ⚽️ ♟️
 
-<img width="600" alt="captura de tela do WebApp da Mergington High School" src="../images/mergington-high-school-webapp.png" />
+<img width="600" alt="captura de tela do WebApp da Mergington High School" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/mergington-high-school-webapp.png?raw=true" />
 
 ### 📖 Teoria: Conhecendo o GitHub Copilot
 
-<img width="150" align="right" alt="logo do copilot" src="../images/copilot-logo.png" />
+<img width="150" align="right" alt="logo do copilot" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-logo.png?raw=true" />
 
 O GitHub Copilot é um assistente de codificação com IA que ajuda você a escrever código mais rápido e com menos esforço, permitindo concentrar mais energia em resolver problemas e colaborar.
 
@@ -47,19 +47,19 @@ Vamos iniciar nosso ambiente de desenvolvimento, usar o Copilot para aprender um
 
 1. Na barra lateral esquerda, clique na aba de extensões e verifique se as extensões `GitHub Copilot` e `Python` estão instaladas e habilitadas.
 
-   <img width="350" alt="extensão do copilot para o VS Code" src="../images/copilot-extension-vscode.png" />
+   <img width="350" alt="extensão do copilot para o VS Code" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-extension-vscode.png?raw=true" />
 
-   <img width="350" alt="extensão do python para o VS Code" src="../images/python-extension-vscode.png" />
+   <img width="350" alt="extensão do python para o VS Code" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/python-extension-vscode.png?raw=true" />
 
 1. No topo do VS Code, localize e clique no ícone **Toggle Chat** para abrir o painel lateral do Copilot Chat.
 
-   <img width="150" alt="imagem" src="../images/toggle-chat-icon.png" />
+   <img width="150" alt="imagem" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/toggle-chat-icon.png?raw=true" />
 
    > 🪧 **Nota:** Se esta for a primeira vez que você usa o GitHub Copilot, será preciso aceitar os termos de uso para continuar.
 
 1. Garanta que você está no **Ask Mode** para nossa primeira interação.
 
-   <img width="350" alt="captura mostrando a seleção do Ask Mode no Copilot Chat" src="../images/ask-mode-selection.png" />
+   <img width="350" alt="captura mostrando a seleção do Ask Mode no Copilot Chat" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/ask-mode-selection.png?raw=true" />
 
 1. Insira o prompt abaixo para pedir ao Copilot que apresente o projeto a você.
 
@@ -74,13 +74,13 @@ Vamos iniciar nosso ambiente de desenvolvimento, usar o Copilot para aprender um
 
 1. Agora que sabemos um pouco mais sobre o projeto, vamos de fato executá-lo! Na barra lateral esquerda, selecione a aba `Run and Debug` e clique no ícone **Start Debugging**.
 
-   <img width="300" alt="imagem" src="../images/run-and-debug-tab.png" />
+   <img width="300" alt="imagem" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/run-and-debug-tab.png?raw=true" />
 
 1. Queremos ver nossa página rodando no navegador; então, vamos descobrir a URL e a porta. Se não estiver visível, expanda o painel inferior e selecione a aba **Ports**.
 
 1. Na lista, encontre a porta `8000` e o link relacionado. Passe o mouse sobre o link e clique no ícone **Open in browser**.
 
-   ![imagem](../images/open-in-browser-icon.png)
+   ![imagem](https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/open-in-browser-icon.png?raw=true)
 
 ### :keyboard: Atividade: Use o Copilot para lembrar de um comando do terminal 🙋
 

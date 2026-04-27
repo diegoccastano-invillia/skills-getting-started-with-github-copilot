@@ -38,7 +38,7 @@ Vamos usar o Copilot para mudar o site e exibir os estudantes inscritos sob cada
 
 1. Na parte inferior da janela do Copilot Chat, use o dropdown para alternar para o modo **Agent**.
 
-   <img width="350" alt="imagem" src="../images/agent-mode-dropdown.png" />
+   <img width="350" alt="imagem" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. Abra os arquivos relacionados à nossa página web e arraste cada janela de editor (ou arquivo) para o painel de chat, informando ao Copilot que ele deve usá-los como contexto.
 
@@ -48,7 +48,7 @@ Vamos usar o Copilot para mudar o site e exibir os estudantes inscritos sob cada
 
    > 🪧 **Nota:** Adicionar arquivos como contexto é opcional. Se você pular isso, o Copilot Modo Agente ainda pode usar ferramentas como `#codebase` para procurar arquivos relevantes a partir do seu prompt. Adicionar arquivos específicos ajuda a apontar o Copilot na direção certa, o que é especialmente útil em codebases maiores.
 
-   <img width="400" alt="imagem mostrando arquivos adicionados ao contexto" src="../images/files-added-to-context.png" />
+   <img width="400" alt="imagem mostrando arquivos adicionados ao contexto" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/files-added-to-context.png?raw=true" />
 
    > 💡 **Dica:** Você também pode usar o botão **Add Context...** para fornecer outras fontes de itens de contexto, como uma issue do GitHub ou os resultados de uma janela do terminal.
 
@@ -66,14 +66,14 @@ Vamos usar o Copilot para mudar o site e exibir os estudantes inscritos sob cada
 
    Usando os botões **Keep** mostrados abaixo, você pode aceitar/descartar todas as alterações ou revisar e decidir alteração por alteração. Isso pode ser feito tanto pela visão do painel de chat quanto enquanto inspeciona cada arquivo editado.
 
-      <img width="900" alt="botões para manter ou descartar alterações" src="../images/review-changes-buttons.png" />
+      <img width="900" alt="botões para manter ou descartar alterações" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/review-changes-buttons.png?raw=true" />
 
 
 1. Antes de simplesmente aceitar as alterações, por favor verifique nosso site novamente e confirme que tudo foi atualizado conforme esperado.
 
    Aqui está um exemplo de um card de atividade atualizado. Você pode precisar reiniciar a aplicação ou atualizar a página.
 
-   <img width="350" alt="Card de atividade com info de participantes" src="../images/activity-card-with-participants.png" />
+   <img width="350" alt="Card de atividade com info de participantes" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/activity-card-with-participants.png?raw=true" />
 
    > 🪧 **Nota:** Seu card de atividade pode parecer diferente. O Copilot nem sempre produz o mesmo resultado.
 
@@ -99,11 +99,11 @@ Se você não obtiver os resultados desejados, pode tentar outros modelos ou for
 
 1. Garanta que seu Copilot ainda está no modo **Agent**.
 
-   <img width="250" alt="agent mode" src="../images/agent-mode-dropdown.png" />
+   <img width="250" alt="agent mode" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. Clique no ícone **Tools** e explore todas as Ferramentas atualmente disponíveis para o Copilot Modo Agente.
 
-   <img width="250"  alt="ícone de tools" src="../images/tools-icon.png" />
+   <img width="250"  alt="ícone de tools" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/tools-icon.png?raw=true" />
 
 1. Hora do nosso teste! Vamos pedir ao Copilot para adicionar a funcionalidade de remoção de participantes.
 

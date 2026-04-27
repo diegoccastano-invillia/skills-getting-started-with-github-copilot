@@ -50,7 +50,7 @@ Em resumo, você pode pensar no Copilot como um colega de trabalho muito especia
       # Validate student is not already signed up
       ```
 
-      <img width="700" alt="Sugestão em texto sombreado do Copilot no editor" src="../images/shadow-text.gif" />
+      <img width="700" alt="Sugestão em texto sombreado do Copilot no editor" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/shadow-text.gif?raw=true" />
 
    1. Pressione `Tab` para aceitar a sugestão do Copilot e converter o texto sombreado em código.
 
@@ -91,7 +91,7 @@ O **Inline Chat** e o painel **Copilot Chat** são parecidos, mas diferem no esc
 
 1. Selecione todo o dicionário `activities` clicando e arrastando o mouse do topo até o final do dicionário. Isso ajudará a fornecer contexto ao Copilot para o próximo prompt.
 
-   <img width="700" alt="Dicionário activities selecionado antes de abrir o inline chat" src="../images/activities-dict-highlighted.png" />
+   <img width="700" alt="Dicionário activities selecionado antes de abrir o inline chat" src="https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/activities-dict-highlighted.png?raw=true" />
 
 
 1. Abra o Copilot Inline Chat usando o atalho de teclado `Ctrl + I` (Windows) ou `Cmd + I` (Mac).
@@ -188,7 +188,7 @@ Bom trabalho corrigindo aquele bug e expandindo as atividades de exemplo! Agora 
 
 1. Encontre o arquivo `app.py` e pressione o sinal `+` para reunir suas alterações na área de staging.
 
-   ![imagem](../images/staging-changes-icon.png)
+   ![imagem](https://github.com/diegoccastano-invillia/skills-getting-started-with-github-copilot/blob/main/.github/images/staging-changes-icon.png?raw=true)
 
 1. Acima da lista de alterações em staging, encontre a caixa de texto **Message**, mas **não digite nada** por enquanto.
    - Tipicamente, você escreveria uma breve descrição das mudanças aqui, mas agora temos o Copilot para ajudar!
